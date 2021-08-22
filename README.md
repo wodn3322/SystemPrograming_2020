@@ -5,4 +5,5 @@ System Programing Class Assignment
 201811242 김재우 (Kim Jae Woo)
 
 Middle Assignment : make ParallelCNN by Message Queue
+
 Final Assignment : make ParallelCNN by Thread
